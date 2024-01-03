@@ -6,7 +6,16 @@ Any Cyber Security Company in the present scenario doesn't use AI efficiently an
 This is an ambitious project trying to implement the same from scratch.
 
 # Idea
+## AI Enabled Code Analysis and Mutation
+## DRL Based Dynamic Anaysis
+## Adversarial Attack Strategies
+## Graph Neural Network fior Dependency Analysis
+## Self Healing and Auto Remediation
+## Decentralized Privacy Techniques
+## Predictive Security Analysis
 
+Futue Ideas
+## Quantum Safe Cryptography Integration
 
 # Objectives
 a. Collect training and test data from research papers, cwe, masvs, chatgpt and other sources<br>
