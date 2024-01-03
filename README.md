@@ -15,7 +15,7 @@ Decentralized Privacy Techniques<br>
 Predictive Security Analysis<br>
 
 Futue Ideas
-## Quantum Safe Cryptography Integration
+Quantum Safe Cryptography Integration
 
 # Objectives
 a. Collect training and test data from research papers, cwe, masvs, chatgpt and other sources<br>
