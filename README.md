@@ -6,6 +6,12 @@ Any Cyber Security Company in the present scenario doesn't use AI efficiently an
 
 This is an ambitious project trying to implement the same from scratch.
 
+# Objectives
+a. Collect training and test data from research papers, cwe, masvs and chatgpt.
+b. To integrate open-source tools and create a common playground for them.
+c. Write drivers to test mobile applications in semi-automatic manner.
+d. Use comprehensive AI learning methods using NLP and other techniques.
+
 # Call for Contribution
 Contributors who want to contibute to the project are always welcome.
 
