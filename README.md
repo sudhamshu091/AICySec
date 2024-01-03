@@ -3,8 +3,10 @@ AI for Cybersecurity
 
 # Motivation
 Any Cyber Security Company in the present scenario doesn't use AI efficiently and extensively for VAPT.
-
 This is an ambitious project trying to implement the same from scratch.
+
+# Idea
+
 
 # Objectives
 a. Collect training and test data from research papers, cwe, masvs and chatgpt.<br>
