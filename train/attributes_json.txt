@@ -1,0 +1,4 @@
+Behavioral Analysis
+Anomoly Detection
+Dymanic Code Analysis
+Real-time Decision Making
