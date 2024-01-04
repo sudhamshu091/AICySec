@@ -14,7 +14,7 @@ e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
 
-Futue Ideas<br>
+Future Ideas<br>
 Quantum Safe Cryptography Integration
 
 # Objectives
