@@ -24,7 +24,7 @@ b. To integrate open-source tools and create a common playground for them.<br>
 c. Test mobile applications in semi-automatic manner.<br>
 d. Use comprehensive AI learning methods using NLP and other techniques.<br>
 
-# Call for Contribution
+# Call for Contributions
 Contributors who want to contibute to this project are always welcome.
 
 
