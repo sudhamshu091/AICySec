@@ -22,9 +22,14 @@ a. Quantum Safe Cryptography Integration<br>
 <b>2 year plan</b><br>
 4 months(Start from January 2023)<br>
 a. Dataset collection and preparing a training dataset<br>
+step 1:
+step 2:
+step 3:
 
 <b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.<br>
+step 1:
+step 2:
 c. Implement basic and advanced code analysis functionalities<br>
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
 e. Integration various tools during dynamic analysis.<br>
