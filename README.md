@@ -9,7 +9,7 @@ This is an ambitious project trying to implement the same from scratch.
 a. AI Enabled Code Analysis and Mutation<br>
 b. DRL Based Dynamic Anaysis<br>
 c. Adversarial Attack Strategies<br>
-d. Graph Neural Network fior Dependency Analysis<br>
+d. Graph Neural Network for Dependency Analysis<br>
 e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
