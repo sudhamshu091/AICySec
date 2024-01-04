@@ -5,6 +5,8 @@ AI for Mobile(Android&iOS) app VAPT
 Any Cyber Security Company in the present scenario doesn't use AI efficiently and extensively for Mobile VAPT.
 This is an ambitious project trying to implement the same from scratch.
 
+# Roadmap
+
 # Idea
 a. AI Enabled Code Analysis and Mutation<br>
 b. DRL Based Dynamic Anaysis<br>
@@ -14,7 +16,6 @@ e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
 h. Broader and Generalized Attack Vectors<br>
-
 Future Ideas<br>
 a. Quantum Safe Cryptography Integration
 
