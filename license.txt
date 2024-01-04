@@ -1,2 +1,2 @@
 License
-This is an open-source project. Access to this project is permitted solely for contributors. Usage of this project for commercial purposes, especially those involving financial gain, is prohibited.
+This is an open-source project. Access to this project is permitted to all. Usage of this project for commercial purposes, especially those involving financial gain, is prohibited.
