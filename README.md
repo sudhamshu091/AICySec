@@ -18,48 +18,48 @@ Future Ideas<br>
 a. Quantum Safe Cryptography Integration
 
 # Roadmap
-Dataset collection and preparing a training dataset 2 months(Start from January 2023)
+a. Dataset collection and preparing a training dataset 2 months(Start from January 2023)
 
 <b>3 week/strategy(Individually implement the ideas using ai)</b><br>
-Research existing code analysis strategies.<br>
-Implement basic and advanced code analysis functionalities<br>
-Develop Mutation Starategies based on analysis(reverse engineering)<br>
-Integration various tools during dynamic analysis.<br>
-interatively improve strategies based on testing outcomes<br>
+b. Research existing code analysis strategies.<br>
+c. Implement basic and advanced code analysis functionalities<br>
+d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
+e. Integration various tools during dynamic analysis.<br>
+f. interatively improve strategies based on testing outcomes<br>
 
 ##future scope##<br>
 tester feedback based improvement<br>
 
-Study Deep Reinforcement Learning(DRL) for Dynamic Analysis<br>
-Design and implement a Prototype for dynamic analysis<br>
-Test and refine DRL based dynamic analysis model.<br>
-continuous enhance these strategies based on test results and evolving threats<br>
+g. Study Deep Reinforcement Learning(DRL) for Dynamic Analysis<br>
+h. Design and implement a Prototype for dynamic analysis<br>
+i. Test and refine DRL based dynamic analysis model.<br>
+j. continuous enhance these strategies based on test results and evolving threats<br>
 
-Research adversarial attack methods<br>
-Develop initial adversarial attack strategies<br>
-Test strategies against code analysis and dynamic analysis<br>
-iteratively improve security modela and frameworks<br>
+k. Research adversarial attack methods<br>
+l. Develop initial adversarial attack strategies<br>
+m. Test strategies against code analysis and dynamic analysis<br>
+n. iteratively improve security modela and frameworks<br>
 
-Explore graph neural network(GNN) applications(dependancy analysis)<br>
-Implement GNN for dependancy analysis<br>
-Integrate GNN with existing analysis modules<br>
-iterative improvements<br>
+o. Explore graph neural network(GNN) applications(dependancy analysis)<br>
+p. Implement GNN for dependancy analysis<br>
+q. Integrate GNN with existing analysis modules<br>
+r. iterative improvements<br>
 
-Research self healing techniques in code<br>
-Develop initial auto-remediation starategies<br>
-Test and refine auto-remediation features<br>
+s. Research self healing techniques in code<br>
+t. Develop initial auto-remediation starategies<br>
+u. Test and refine auto-remediation features<br>
 
-Investigate decentralized privacy methods<br>
-Implement basic decentralized privacy measures.<br>
-Enhance and expand decentralized privacy functionalities.<br>
+v. Investigate decentralized privacy methods<br>
+w. Implement basic decentralized privacy measures.<br>
+x. Enhance and expand decentralized privacy functionalities.<br>
 
-Research predictive security models<br>
-Develop and integrate predictive security analysis<br>
-Validate and optimize predictive security algorithms.<br>
+y. Research predictive security models<br>
+z. Develop and integrate predictive security analysis<br>
+aa. Validate and optimize predictive security algorithms.<br>
 
-Identify broader attack vectors in security<br>
-Deveolop a framework for generalized attack vector analysis<br>
-Test and expand the framework against various scenarios<br>
+ab. Identify broader attack vectors in security<br>
+ac. Deveolop a framework for generalized attack vector analysis<br>
+ad. Test and expand the framework against various scenarios<br>
 
 ##future works##<br>
 Threat intelligence integration<br>
