@@ -1,5 +1,5 @@
 # AICySec
-AI for Mobile app VAPT
+AI for Mobile(Android&iOS) app VAPT
 
 # Motivation
 Any Cyber Security Company in the present scenario doesn't use AI efficiently and extensively for Mobile VAPT.
