@@ -16,7 +16,7 @@ g. Predictive Security Analysis<br>
 h. Broader and Generalized Attack Vectors<br>
 
 Future Ideas<br>
-Quantum Safe Cryptography Integration
+a. Quantum Safe Cryptography Integration
 
 # Objectives
 a. Collect training and test data from research papers, cwe, masvs, chatgpt and other sources<br>
