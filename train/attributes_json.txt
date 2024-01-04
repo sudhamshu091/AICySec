@@ -1,4 +1,9 @@
+{vulnerabilityName:""}
 Behavioral Analysis
+{reproductionSteps:"",
 Anomoly Detection
+{runtimeAnololies:[{anomolyType:"", description:""}, {anomolyType:"", description:""}]}
 Dymanic Code Analysis
+{codeSnippet:"", affectedComponent:""}
 Real-time Decision Making
+{securityLevel:"", mitigationSteps:""}
