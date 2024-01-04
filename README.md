@@ -22,7 +22,7 @@ a. Quantum Safe Cryptography Integration<br>
 <b>2 year plan</b><br>
 4 months(Start from January 2023)<br>
 a. Dataset collection and preparing a training dataset<br>
-step 1: collect data from cwe, masvs and other sources<br>
+step 1: collect data from cve, masvs and other sources<br>
 step 2: use a suitable method storage for the data collected<br>
 step 3:<br>
 
