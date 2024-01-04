@@ -27,5 +27,6 @@ d. Use comprehensive AI learning methods using NLP and other techniques.<br>
 
 # Call for Contributions
 Contributors who want to contibute to this project are always welcome.
+Contact: sudhamshubn00@gmail.com or through github issues
 
 
