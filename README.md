@@ -19,6 +19,7 @@ h. Broader and Generalized Attack Vectors<br>
 a. Quantum Safe Cryptography Integration<br>
 
 # Roadmap
+<b>2 year plan</b><br>
 4 months(Start from January 2023)<br>
 a. Dataset collection and preparing a training dataset<br>
 
