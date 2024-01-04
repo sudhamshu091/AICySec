@@ -14,8 +14,9 @@ e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
 h. Broader and Generalized Attack Vectors<br>
-Future Ideas<br>
-a. Quantum Safe Cryptography Integration
+
+##future Ideas##<br>
+a. Quantum Safe Cryptography Integration<br>
 
 # Roadmap
 2.5 months(Start from January 2023)<br>
