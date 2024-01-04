@@ -13,6 +13,7 @@ d. Graph Neural Network for Dependency Analysis<br>
 e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
+h. Broader and Generalized Attack Vectors<br>
 
 Future Ideas<br>
 Quantum Safe Cryptography Integration
