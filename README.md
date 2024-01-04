@@ -22,7 +22,7 @@ a. Quantum Safe Cryptography Integration<br>
 2.5 months(Start from January 2023)<br>
 a. Dataset collection and preparing a training dataset<br>
 
-<b>3 week/strategy(Individually implement the ideas using ai)</b><br>
+<b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.<br>
 c. Implement basic and advanced code analysis functionalities<br>
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
