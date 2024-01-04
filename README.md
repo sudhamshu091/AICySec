@@ -18,8 +18,8 @@ Future Ideas<br>
 a. Quantum Safe Cryptography Integration
 
 # Roadmap
-2.5 months(Start from January 2023)
-a. Dataset collection and preparing a training dataset
+2.5 months(Start from January 2023)<br>
+a. Dataset collection and preparing a training dataset<br>
 
 <b>3 week/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.<br>
