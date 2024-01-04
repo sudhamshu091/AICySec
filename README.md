@@ -24,6 +24,6 @@ c. Test mobile applications in semi-automatic manner.<br>
 d. Use comprehensive AI learning methods using NLP and other techniques.<br>
 
 # Call for Contribution
-Contributors who want to contibute to the project are always welcome.
+Contributors who want to contibute to this project are always welcome.
 
 
