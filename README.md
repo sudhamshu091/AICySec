@@ -24,7 +24,7 @@ a. Quantum Safe Cryptography Integration<br>
 a. Dataset collection and preparing a training dataset(collect data seperately for Android and iOS<br>
 step 1: collect data from cve, masvs and other sources<br>
 step 2: use a suitable method storage for the data collected<br>
-step 3:<br>
+step 3: collect static and dynamic/hybrid vulnerabilities seperately<br>
 
 <b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.<br>
