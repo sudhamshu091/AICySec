@@ -28,12 +28,12 @@ step 3: collect static and dynamic/hybrid vulnerabilities seperately<br>
 step 4: I would take the responsibility to handle large set of data, train the model with large set of training data and allot chunks of data to contributors for testing the functionalities they developed based on the requirement.<br>
 
 <b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
-b. Research existing code analysis strategies.<br>
-step 1:<br>
-step 2:<br>
-c. Implement basic and advanced code analysis functionalities<br>
+b. Research existing code analysis strategies.-- done <br>
+c. Implement basic and advanced code analysis functionalities -- plan to use <b>NLP Models(eg BERT, GPT)</b>, try pretrained models like Hugging Face's Transformers. Also use of <b>Rule Based Systems</b> that can easily intergrate that don't require Machine Learning<br>
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
+##future scope##
 e. Integration various tools during dynamic analysis.<br>
+
 f. interatively improve strategies based on testing outcomes<br>
 
 ##future scope##<br>
