@@ -29,12 +29,11 @@ step 4: I would take the responsibility to handle large set of data, train the m
 
 <b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.-- <b>done</b><br>
->>Pointer<br>
+>>Where am I Pointer<br>
 c. Implement basic and advanced code analysis functionalities -- plan to use <b>NLP Models(eg BERT, GPT)</b>, try pretrained models like Hugging Face's Transformers. Also use of <b>Rule Based Systems</b> that can easily intergrate that don't require Machine Learning<br>
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
 ##future scope##
 e. Integration various tools during dynamic analysis.<br>
-
 f. interatively improve strategies based on testing outcomes<br>
 
 ##future scope##<br>
