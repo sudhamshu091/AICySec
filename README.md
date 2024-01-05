@@ -22,7 +22,7 @@ a. Quantum Safe Cryptography Integration<br>
 <b>2 year plan</b><br>
 4 months(Start from January 2023)<br>
 a. Dataset collection and preparing a training dataset(collect data seperately for Android and iOS)<br>
-step 1: collect data from cve, masvs and other sources<br>
+step 1: collect/legally scrap data from google, cve, masvs and other sources<br>
 step 2: use a suitable method storage for the data collected<br>
 step 3: collect static and dynamic/hybrid vulnerabilities seperately<br>
 step 4: I would take the responsibility to handle large set of data, train the model with large set of training data and allot chunks of data to contributors for testing the functionalities they developed based on the requirement.<br>
