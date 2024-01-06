@@ -9,7 +9,7 @@ This is an ambitious project trying to implement the same from scratch.
 a. AI Enabled Code Analysis and Mutation<br>
 b. DRL(Deep Reinforcement Learning) Based Dynamic Anaysis<br>
 c. Adversarial Attack Strategies<br>
-d. Graph Neural Network for Dependency Analysis<br>
+d. Graph Neural Network for Dependency Analysis/Event occured<br>
 e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
@@ -33,7 +33,7 @@ step 4: I would take the responsibility to handle large set of data, train the m
 b. Research existing code analysis strategies.-- <b>done</b><b>, add views here</b><br>
 c. Implement basic and advanced code analysis functionalities -- plan to use <b>NLP Models(eg BERT, GPT)</b>, try pretrained models like Hugging Face's Transformers. Also use of <b>Rule Based Systems(that don't require Machine Learning)</b> which can be easily intergrated<br>
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
-##future scope##
+##future scope##<br>
 e. Integration various tools during dynamic analysis.<br>
 
 f. interatively improve strategies based on testing outcomes<br>
