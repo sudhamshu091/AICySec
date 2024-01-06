@@ -22,16 +22,16 @@ a. Quantum Safe Cryptography Integration<br>
 <b>2 year plan</b><br>
 4 months(Start from January 2023 to April 2023)<br>
 a. Dataset collection and preparing a training dataset(collect data seperately for Android and iOS)<br>
+>>Where am I Pointer<br>
 step 1: collect/legally scrap data from google, cve, masvs and other sources<br>
+
 step 2: use a suitable method storage for the data collected<br>
 step 3: collect static and dynamic/hybrid vulnerabilities seperately<br>
 step 4: I would take the responsibility to handle large set of data, train the model with large set of training data and allot chunks of data to contributors for testing the functionalities they developed based on the requirement.<br>
 
 <b>84 weeks/strategy(Individually implement the ideas using ai)</b><br>
 b. Research existing code analysis strategies.-- <b>done</b><b>, add views here</b><br>
->>Where am I Pointer<br>
 c. Implement basic and advanced code analysis functionalities -- plan to use <b>NLP Models(eg BERT, GPT)</b>, try pretrained models like Hugging Face's Transformers. Also use of <b>Rule Based Systems(that don't require Machine Learning)</b> which can be easily intergrated<br>
-
 d. Develop Mutation Starategies based on analysis(reverse engineering)<br>
 ##future scope##
 e. Integration various tools during dynamic analysis.<br>
