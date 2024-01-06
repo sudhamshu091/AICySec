@@ -22,7 +22,7 @@ a. Quantum Safe Cryptography Integration<br>
 <b>2 year plan</b><br>
 4 months(Start from January 2023 to April 2023)<br>
 a. Dataset collection and preparing a training dataset(collect data seperately for Android and iOS)<br>
->>Where am I Pointer<br>
+>>Focus Pointer<br>
 step 1: collect/legally scrap data from google, cve, masvs and other sources<br>
 
 step 2: use a suitable method storage for the data collected<br>
