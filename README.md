@@ -13,13 +13,14 @@ d. Graph Neural Network for Dependency Analysis/Event occured<br>
 e. Self Healing and Auto Remediation<br>
 f. Decentralized Privacy Techniques<br>
 g. Predictive Security Analysis<br>
-h. Broader and Generalized Attack Vectors<br>
+h. Intelligent scheduling of vulnerabilities and load balancing/pipelining(while testing)
+i. Broader and Generalized Attack Vectors<br>
 
 ##future Ideas##<br>
 a. Quantum Safe Cryptography Integration<br>
 
 # Roadmap
-<b>2 year plan</b><br>
+<b>2-2.5 year plan</b><br>
 4 months(Start from January 2023 to April 2023)<br>
 a. Dataset collection and preparing a training dataset(collect data seperately for Android and iOS)<br>
 >>Focus Pointer<br>
@@ -69,8 +70,9 @@ z. Develop and integrate predictive security analysis<br>
 aa. Validate and optimize predictive security algorithms.<br>
 
 ab. Identify broader attack vectors in security<br>
-ac. Deveolop a framework for generalized attack vector analysis<br>
-ad. Test and expand the framework against various scenarios<br>
+ac. Intelligent scheduling of vulnerabilities and load balancing/pipelining(while testing)
+ad. Deveolop a framework for generalized attack vector analysis<br>
+ae. Test and expand the framework against various scenarios<br>
 
 ##future works##<br>
 Threat intelligence integration<br>
